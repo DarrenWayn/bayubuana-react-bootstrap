@@ -1,0 +1,11 @@
+@use 'base/customBootstrap';
+
+// IMPORT THE COMPONENTS 
+@use 'base/buttons';
+@use 'base/mixins';
+
+// IMPORT THE SECTIONS 
+@use 'components/navbar';
+@use 'components/sidebar';
+@use 'components/functional';
+@use 'components/table';
